@@ -4,3 +4,4 @@ Rencana Startup :
 - AI (Math kuatin)
 - OS
 - Jarvis (NLP)
+- Hologram
