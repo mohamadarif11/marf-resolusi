@@ -1,6 +1,6 @@
 Rencana Startup :
 - Tanaman hias (ICD) and next
 - Daringin (Idea aja)
-- AI
-- Jarvis
-- Hologram
+- AI (Math kuatin)
+- OS
+- Jarvis (NLP)
