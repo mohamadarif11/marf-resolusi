@@ -3,4 +3,4 @@ Rencana Startup :
 - Daringin (Idea aja)
 - AI (Math kuatin)
 - OS
-- Jarvis
+- Jarvis (NLP)
